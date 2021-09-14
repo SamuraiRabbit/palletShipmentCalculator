@@ -20,7 +20,7 @@ The Pallet Shipment Calculator has input fields for two products and pallets via
 * CSS ![css](./images/css.png) (WIP)
 
 ## Setup
-* Download index.html, main.js and style.css and save in the same folder.
+* Download files and keep them in the same folder.
 * Open index.html in your web browser to use the calculator.
 
 ## Project Status
@@ -29,11 +29,11 @@ The Pallet Shipment Calculator has input fields for two products and pallets via
 
 ### Known Issues
 
-* None so far.
+* Unresponsive and ugly styling.
 
 ## Room for Improvement
 
-* CSS Styling required for beautification.
+* Improved CSS
 * Change the user feedback to an HTML element rather than a JS alert.
 
 ## Acknowledgements

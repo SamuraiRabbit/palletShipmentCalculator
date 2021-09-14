@@ -1,1 +1,44 @@
-/*Alas, this form currently has no style.*/
+* {
+	max-width: 75%;
+	margin: auto;
+	font-family: Robot, Helvetica, sans-serif;	
+}
+
+body {
+	background-color: #EDF5E1;
+}
+
+form {
+	padding: 15px;
+	margin-top: 20px;
+	border: 2px solid;
+	border-radius: 5px;
+	background-color: #5CDB95;
+}
+
+label {
+	display: block;
+}	
+
+label span {
+    	display: inline-block;
+    	text-align: right;
+    	width: 100px;
+	padding-top: 5px;
+}
+
+input {
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+button {
+	padding: 10px;
+	margin-bottom: 10px;
+	background-color: #05386B;
+	color: #FFFFFF;
+	border: 2px solid;
+	border-radius: 5px;
+	border-color: #5CDB95;
+	display: block;	
+}
